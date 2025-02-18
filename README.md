@@ -60,7 +60,7 @@ streamlit run app.py
 Feel free to fork this repository, create a branch, and submit a **Pull Request** if you’d like to contribute!
 
 ## 📩 Contact
-For any questions or collaboration, reach out to me on [LinkedIn](https://www.linkedin.com/) or via email at **your-email@example.com**.
+For any questions or collaboration, reach out to me on [LinkedIn](https://www.linkedin.com/in/arsal-ali-311b99221/) or via email at **arsalali687@gmail.com**.
 
 ---
 **⭐ If you found this project useful, please give it a star!** 🌟
